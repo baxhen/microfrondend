@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="microfrontend" />
+  <!-- <img src="./.github/app.gif" alt="microfrontend" /> -->
 
 &#xa0;
 
