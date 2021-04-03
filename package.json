@@ -1,0 +1,7 @@
+{
+  "name": "microfrontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm start --prefix ./packages/auth && npm start --prefix ./packages/container && npm start --prefix ./packages/dashboard && npm start --prefix ./packages/marketing"
+  }
+}
